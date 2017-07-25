@@ -1,0 +1,25 @@
+{
+  "name": "xmpp-monitor",
+  "description": "Visualization for Support Agent Tracking Data",
+  "main": "js/main.js",
+  "moduleType": [
+    "es6"
+  ],
+  "authors": [
+    "jonathan.beckwith@caseware.com",
+    "sdk@caseware.com"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vis": "~4.9.0"
+  }
+}

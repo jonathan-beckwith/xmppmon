@@ -1,0 +1,403 @@
+{
+  "events": [
+    {
+      "end": "Fri, 20 Nov 2015 15:51:10 GMT", 
+      "id": "22:23", 
+      "jid": "1129", 
+      "start": "Fri, 20 Nov 2015 15:48:32 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 15:53:45 GMT", 
+      "id": "23:24", 
+      "jid": "1129", 
+      "start": "Fri, 20 Nov 2015 15:51:10 GMT", 
+      "status": "Break"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 18:24:42 GMT", 
+      "id": "30:72", 
+      "jid": "1130", 
+      "start": "Fri, 20 Nov 2015 16:00:15 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 22:06:30 GMT", 
+      "id": "56:156", 
+      "jid": "1233", 
+      "start": "Fri, 20 Nov 2015 18:22:39 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 20:00:39 GMT", 
+      "id": "66:97", 
+      "jid": "1195", 
+      "start": "Fri, 20 Nov 2015 18:22:39 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 19:24:38 GMT", 
+      "id": "71:88", 
+      "jid": "1274", 
+      "start": "Fri, 20 Nov 2015 18:22:47 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 18:33:29 GMT", 
+      "id": "73:76", 
+      "jid": "1130", 
+      "start": "Fri, 20 Nov 2015 18:24:42 GMT", 
+      "status": "Outbound Client Call"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 19:30:12 GMT", 
+      "id": "75:89", 
+      "jid": "1180", 
+      "start": "Fri, 20 Nov 2015 18:30:28 GMT", 
+      "status": "Lunch"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 19:13:49 GMT", 
+      "id": "77:85", 
+      "jid": "1130", 
+      "start": "Fri, 20 Nov 2015 18:33:29 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 19:00:08 GMT", 
+      "id": "80:81", 
+      "jid": "1129", 
+      "start": "Fri, 20 Nov 2015 18:53:54 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 20:00:40 GMT", 
+      "id": "81:98", 
+      "jid": "1129", 
+      "start": "Fri, 20 Nov 2015 19:00:08 GMT", 
+      "status": "Lunch"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 19:49:06 GMT", 
+      "id": "84:95", 
+      "jid": "1350", 
+      "start": "Fri, 20 Nov 2015 19:06:20 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 19:17:17 GMT", 
+      "id": "85:86", 
+      "jid": "1130", 
+      "start": "Fri, 20 Nov 2015 19:13:49 GMT", 
+      "status": "Break"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 19:39:21 GMT", 
+      "id": "87:91", 
+      "jid": "1130", 
+      "start": "Fri, 20 Nov 2015 19:17:17 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 20:26:31 GMT", 
+      "id": "88:106", 
+      "jid": "1274", 
+      "start": "Fri, 20 Nov 2015 19:24:38 GMT", 
+      "status": "Lunch"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:17:50 GMT", 
+      "id": "90:126", 
+      "jid": "1180", 
+      "start": "Fri, 20 Nov 2015 19:30:12 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 19:44:10 GMT", 
+      "id": "91:92", 
+      "jid": "1130", 
+      "start": "Fri, 20 Nov 2015 19:39:21 GMT", 
+      "status": "Outbound Client Call"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 19:49:38 GMT", 
+      "id": "94:96", 
+      "jid": "1130", 
+      "start": "Fri, 20 Nov 2015 19:45:37 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:03:36 GMT", 
+      "id": "95:121", 
+      "jid": "1350", 
+      "start": "Fri, 20 Nov 2015 19:49:06 GMT", 
+      "status": "Outbound Client Call"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 20:04:53 GMT", 
+      "id": "96:101", 
+      "jid": "1130", 
+      "start": "Fri, 20 Nov 2015 19:49:38 GMT", 
+      "status": "Outbound Client Call"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 20:02:46 GMT", 
+      "id": "97:99", 
+      "jid": "1195", 
+      "start": "Fri, 20 Nov 2015 20:00:39 GMT", 
+      "status": "Idle"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 20:15:05 GMT", 
+      "id": "98:103", 
+      "jid": "1129", 
+      "start": "Fri, 20 Nov 2015 20:00:40 GMT", 
+      "status": "Outbound Client Call"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 20:36:23 GMT", 
+      "id": "100:109", 
+      "jid": "1195", 
+      "start": "Fri, 20 Nov 2015 20:02:46 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 20:20:02 GMT", 
+      "id": "102:105", 
+      "jid": "1130", 
+      "start": "Fri, 20 Nov 2015 20:04:53 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 22:00:08 GMT", 
+      "id": "104:153", 
+      "jid": "1129", 
+      "start": "Fri, 20 Nov 2015 20:15:05 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:21:34 GMT", 
+      "id": "105:129", 
+      "jid": "1130", 
+      "start": "Fri, 20 Nov 2015 20:20:02 GMT", 
+      "status": "Lunch"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 20:35:13 GMT", 
+      "id": "107:108", 
+      "jid": "1274", 
+      "start": "Fri, 20 Nov 2015 20:26:31 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 20:46:35 GMT", 
+      "id": "108:112", 
+      "jid": "1274", 
+      "start": "Fri, 20 Nov 2015 20:35:13 GMT", 
+      "status": "Outbound Client Call"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 20:39:02 GMT", 
+      "id": "109:110", 
+      "jid": "1195", 
+      "start": "Fri, 20 Nov 2015 20:36:23 GMT", 
+      "status": "Idle"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 22:11:34 GMT", 
+      "id": "111:160", 
+      "jid": "1195", 
+      "start": "Fri, 20 Nov 2015 20:39:02 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 20:47:00 GMT", 
+      "id": "113:114", 
+      "jid": "1274", 
+      "start": "Fri, 20 Nov 2015 20:46:35 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 20:57:34 GMT", 
+      "id": "114:117", 
+      "jid": "1274", 
+      "start": "Fri, 20 Nov 2015 20:47:00 GMT", 
+      "status": "Outbound Client Call"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 20:58:46 GMT", 
+      "id": "116:119", 
+      "jid": "1173", 
+      "start": "Fri, 20 Nov 2015 20:53:24 GMT", 
+      "status": "Outbound Client Call"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:06:40 GMT", 
+      "id": "118:123", 
+      "jid": "1274", 
+      "start": "Fri, 20 Nov 2015 20:57:34 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:25:19 GMT", 
+      "id": "120:130", 
+      "jid": "1173", 
+      "start": "Fri, 20 Nov 2015 20:58:46 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:26:58 GMT", 
+      "id": "122:133", 
+      "jid": "1350", 
+      "start": "Fri, 20 Nov 2015 21:03:36 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:16:37 GMT", 
+      "id": "123:124", 
+      "jid": "1274", 
+      "start": "Fri, 20 Nov 2015 21:06:40 GMT", 
+      "status": "Outbound Client Call"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:42:23 GMT", 
+      "id": "125:146", 
+      "jid": "1274", 
+      "start": "Fri, 20 Nov 2015 21:16:37 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:20:58 GMT", 
+      "id": "126:127", 
+      "jid": "1180", 
+      "start": "Fri, 20 Nov 2015 21:17:50 GMT", 
+      "status": "Break"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 22:00:04 GMT", 
+      "id": "128:152", 
+      "jid": "1180", 
+      "start": "Fri, 20 Nov 2015 21:20:58 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:25:43 GMT", 
+      "id": "129:131", 
+      "jid": "1130", 
+      "start": "Fri, 20 Nov 2015 21:21:34 GMT", 
+      "status": "Outbound Client Call"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:28:34 GMT", 
+      "id": "130:134", 
+      "jid": "1173", 
+      "start": "Fri, 20 Nov 2015 21:25:19 GMT", 
+      "status": "Outbound Client Call"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:42:04 GMT", 
+      "id": "132:143", 
+      "jid": "1130", 
+      "start": "Fri, 20 Nov 2015 21:25:43 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:34:36 GMT", 
+      "id": "133:136", 
+      "jid": "1350", 
+      "start": "Fri, 20 Nov 2015 21:26:58 GMT", 
+      "status": "Outbound Client Call"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:37:10 GMT", 
+      "id": "137:138", 
+      "jid": "1350", 
+      "start": "Fri, 20 Nov 2015 21:34:36 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:37:21 GMT", 
+      "id": "138:139", 
+      "jid": "1350", 
+      "start": "Fri, 20 Nov 2015 21:37:10 GMT", 
+      "status": "Outbound Client Call"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:38:20 GMT", 
+      "id": "140:141", 
+      "jid": "1350", 
+      "start": "Fri, 20 Nov 2015 21:37:21 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:42:06 GMT", 
+      "id": "141:144", 
+      "jid": "1350", 
+      "start": "Fri, 20 Nov 2015 21:38:20 GMT", 
+      "status": "Break"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 22:00:04 GMT", 
+      "id": "142:151", 
+      "jid": "1173", 
+      "start": "Fri, 20 Nov 2015 21:41:25 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 22:00:19 GMT", 
+      "id": "143:154", 
+      "jid": "1130", 
+      "start": "Fri, 20 Nov 2015 21:42:04 GMT", 
+      "status": "Outbound Client Call"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:49:01 GMT", 
+      "id": "145:150", 
+      "jid": "1350", 
+      "start": "Fri, 20 Nov 2015 21:42:06 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:45:29 GMT", 
+      "id": "146:147", 
+      "jid": "1274", 
+      "start": "Fri, 20 Nov 2015 21:42:23 GMT", 
+      "status": "Outbound Client Call"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 21:46:40 GMT", 
+      "id": "148:149", 
+      "jid": "1274", 
+      "start": "Fri, 20 Nov 2015 21:45:29 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 22:07:31 GMT", 
+      "id": "149:157", 
+      "jid": "1274", 
+      "start": "Fri, 20 Nov 2015 21:46:40 GMT", 
+      "status": "Meeting Internal"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 22:08:06 GMT", 
+      "id": "150:158", 
+      "jid": "1350", 
+      "start": "Fri, 20 Nov 2015 21:49:01 GMT", 
+      "status": "Meeting Internal"
+    }, 
+    {
+      "end": "Sat, 21 Nov 2015 00:09:34 GMT", 
+      "id": "155:162", 
+      "jid": "1130", 
+      "start": "Fri, 20 Nov 2015 22:00:19 GMT", 
+      "status": "Available"
+    }, 
+    {
+      "end": "Fri, 20 Nov 2015 23:00:04 GMT", 
+      "id": "159:161", 
+      "jid": "1350", 
+      "start": "Fri, 20 Nov 2015 22:08:07 GMT", 
+      "status": "Available"
+    }
+  ]
+}
